@@ -1,11 +1,11 @@
 
 const projects = [
-  { name: "Social Media Clone", link: "https://react-social-posts-app.netlify.app/", image: "../../public/social.webp" },
-  { name: "Shopping App", link: "https://vanisth-shopping-app.netlify.app/", image: '../../public/Shopping-App.webp' },
-  { name: "Calculator", link: "https://vanisth-sharma-calculator.netlify.app/", image: "../../public/calc.webp" },
-  { name: "Theme Changer", link: "https://react-theme-changer.netlify.app/", image: "../../public/theme.webp" },
-  { name: "React Auth Dashboard", link: "https://authentication-dashboard-react.netlify.app/", image: "../../public/Dashboard.webp" },
-  { name: "React Habit Tracker", link: "https://basic-react-habit-tracker.netlify.app/", image: "../../public/Habit.webp" },
+  { name: "Social Media Clone", link: "https://react-social-posts-app.netlify.app/", image: "/Social.webp" },
+  { name: "Shopping App", link: "https://vanisth-shopping-app.netlify.app/", image: '/Shopping-App.webp' },
+  { name: "Calculator", link: "https://vanisth-sharma-calculator.netlify.app/", image: "/Calc.webp" },
+  { name: "Theme Changer", link: "https://react-theme-changer.netlify.app/", image: "/Theme.webp" },
+  { name: "React Auth Dashboard", link: "https://authentication-dashboard-react.netlify.app/", image: "/Dashboard.webp" },
+  { name: "React Habit Tracker", link: "https://basic-react-habit-tracker.netlify.app/", image: "/Habit.webp" },
 ];
 
 const Projects = () => {
