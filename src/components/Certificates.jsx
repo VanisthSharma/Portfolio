@@ -1,7 +1,9 @@
 const certificates = [
-  { name: "Hackerrank - JavaScript", link: "https://www.hackerrank.com/certificates/9b68a42c3999" },
-  { name: "Hackerrank - Problem Solving", link: "https://www.hackerrank.com/certificates/b32b2edd34b4" },
-  { name: "Hackerrank - React.js", link: "https://www.hackerrank.com/certificates/aee00581328e" },
+  { name: "Hackerrank - Frontend Developer (React.js)", link: "https://www.hackerrank.com/certificates/13b4d508881b" },
+  { name: "Hackerrank - Problem Solving (Basic)", link: "https://www.hackerrank.com/certificates/579d6cfa89bf" },
+  { name: "Hackerrank - JavaScript (Intermediate)", link: "https://www.hackerrank.com/certificates/9b68a42c3999" },
+  { name: "Hackerrank - JavaScript (Basic)", link: "https://www.hackerrank.com/certificates/b32b2edd34b4" },
+  { name: "Hackerrank - CSS (Basic)", link: "https://www.hackerrank.com/certificates/aee00581328e" },
 ];
 
 const Certificates = () => {
