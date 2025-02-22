@@ -1,5 +1,6 @@
 
 const projects = [
+  { name: "Mevvbot", link: "https://mevvbot.netlify.app/", image: "/Mevvbot.jpg" },
   { name: "Social Media Clone", link: "https://react-social-posts-app.netlify.app/", image: "/Social.webp" },
   { name: "Shopping App", link: "https://vanisth-shopping-app.netlify.app/", image: '/Shopping-App.webp' },
   { name: "Calculator", link: "https://vanisth-sharma-calculator.netlify.app/", image: "/Calc.webp" },
